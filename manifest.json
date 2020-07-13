@@ -1,7 +1,7 @@
 {
-  "vendor": "vtex",
-  "name": "theme",
-  "version": "0.0.1",
+  "vendor": "corebizmx",
+  "name": "store-theme",
+  "version": "3.37.4",
   "builders": {
     "styles": "2.x",
     "store": "0.x"
